@@ -1,0 +1,76 @@
+body {
+  width: 900px;
+  background-color: rgb(185, 179, 175);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+div {
+ margin: 20px;
+ padding: 20px;
+  overflow: auto;
+  width: 100%;
+}
+h2 {
+  background-color: rgb(248, 244, 241);
+  text-align: center;
+  color:#ffffff;
+  text-shadow: 2px 2px 7px #111111;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+.b {
+  font-weight: bold
+}
+.i {
+font-style: italic;
+}
+.ins {
+text-decoration: underline;
+}
+.del {
+text-decoration: line-through;
+}
+.paragraph {
+  background-color: rgb(185, 169, 76);
+  color: #111111;
+}
+.book-5 {
+  background-color: gray;
+}
+.chapter-1 {
+  background-color: indianred;
+}
+.chapter-2 {
+  background-color: khaki;
+  color: darkblue;
+}
+.chapter-3 {
+  background-color: lightblue;
+  color: rgb(28, 72, 153);
+}
+.chapter-4 {
+  background-color: lightgreen;
+  color: darkgreen;
+}
+.chapter-5 {
+  background-color: lightslategrey;
+}
+
+.button {
+  background: linear-gradient(180deg, #FDDE76 0%, #FFBB01 100%);
+  box-shadow: 0px 4px 0px #B68500;
+  border: none;
+  border-radius: 5px 5px 10px 10px;
+  padding: 24px 42px;
+  font-size: 12px;
+  line-height: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
